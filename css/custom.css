@@ -1,0 +1,22 @@
+.icon-text-1{
+    color: #0e748afb;
+}
+.animated-container {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+  
+.animated-container:hover {
+    transform: scale(1.05); 
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2); 
+}
+
+.border-custom {
+    border-radius: 0px 20px;
+    background-color: #dbf6fe;
+}
+.color-down-text{
+    background-color: #1174b6;
+}
+.logo-down-2{
+    border-radius: 90px;
+}
